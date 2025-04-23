@@ -1,4 +1,4 @@
-# WPF Text Editor Application
+# WPF Text Editor Lab style 6 
 
 ## Описание проекта
 
